@@ -1,1 +1,1 @@
-teste
+Exercícios do livro Lógica de Programação da Casa do Código de como usar o JavaScript e Html para os primeiros programas.
